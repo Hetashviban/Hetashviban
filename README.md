@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **sushi landing page**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **front-end web development languages**
 
 - 👨‍💻 All of my projects are available at [https://hetashviban.github.io/portfolio.io/](https://hetashviban.github.io/portfolio.io/)
 
