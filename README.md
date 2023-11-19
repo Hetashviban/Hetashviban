@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hetashvi Ban</h1>
-<h3 align="center">A passionate frontend developer from Barrie, Canada</h3>
+<h3 align="center">A passionate software developer from Barrie, Canada</h3>
 
 - 👋 Computer Programming Student at Georgian College 
 
