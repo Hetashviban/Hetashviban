@@ -3,7 +3,7 @@
 
 - 👋 Computer Programming Student at Georgian College 
 
-- 🌱 I’m currently learning **front-end web development languages**
+- 🌱 I’m currently learning **different programing languages**
 
 - 👨‍💻 All of my projects are available at [https://hetashviban.github.io/portfolio.io/](https://hetashviban.github.io/portfolio.io/)
 
