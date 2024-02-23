@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hetashvi Ban</h1>
-<h3 align="center">A passionate software developer from Barrie, Canada</h3>
+<h3 align="center">A passionate software developer from Ontario, Canada</h3>
 
-- 👋 Computer Programming Student at Georgian College 
-
-- 🌱 I’m currently learning **different programing languages**
+- 👋 2nd year Computer Programming Student 
 
 - 👨‍💻 All of my projects are available at [https://hetashviban.github.io/portfolio.io/](https://hetashviban.github.io/portfolio.io/)
 
 - 📚 Passionate about coding and always learning something new!
 
 - 🚀 Seeking Co-op Opportunities | Open to Collaborate
-
-- 📢 Open to new projects and ideas. Let's build something amazing together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
