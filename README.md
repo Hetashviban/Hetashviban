@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hetashvi Ban</h1>
 <h3 align="center">A passionate software developer from Ontario, Canada</h3>
 
-- 👋 2nd year Computer Programming Student 
+- 👋 Majored in Computer Programming 
 
 - 👨‍💻 All of my projects are available at [https://hetashviban.github.io/portfolio.io/](https://hetashviban.github.io/portfolio.io/)
 
 - 📚 Passionate about coding and always learning something new!
 
-- 🚀 Seeking Co-op Opportunities | Open to Collaborate
+- 🚀 Seeking Full Time/Contract Opportunities | Open to Collaborate
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
